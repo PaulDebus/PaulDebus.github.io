@@ -16,6 +16,9 @@ Genauso übernehme ich keine Verantwortung für Inhalte auf verlinkten Seiten. I
 
 ## Impressum und ViSdP
 > Paul Debus
+
 > Rudolf-Breitscheid-Str. 3
+
 > 99423 Weimar
+
 > Email: paulpaul (at) surf (punkt) co (punkt) nz
