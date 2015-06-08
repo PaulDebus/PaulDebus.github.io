@@ -3,7 +3,7 @@ layout:     post
 title:      Work in Progress
 date:       2015-06-03 18:21:19
 summary:    Die Seite ist erstellt und es kann jetzt los gehen
-categories: jekyll pixyll
+categories: meta
 ---
 
 ## Herzlich willkommen auf meiner github.io Seite.
