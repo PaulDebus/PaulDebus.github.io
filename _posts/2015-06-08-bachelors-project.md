@@ -2,8 +2,8 @@
 layout:     post
 title:      Bachelors Project
 date:       2015-06-08 16:21:19
-summary:    My Bachelors Thesis: Implement a framework to create an easy interface for using different inclination and acceleration sensors on the Raspberry Pi
-categories: Raspberry_Pi Bachelor Uni
+summary:    My Bachelors Thesis, Implement a framework to create an easy interface for using different inclination and acceleration sensors on the Raspberry Pi
+categories: raspberry_pi bachelor uni
 ---
 
 ## Microcontroller based sensor system for construction monitoring
