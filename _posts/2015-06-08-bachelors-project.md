@@ -22,7 +22,7 @@ There are many people working on projects related to this sensoring system. Some
 ### Idea for the interface
 The interface we want to use should look like this in its most basic form:
 
-```c++
+{% highlight c++ %}
 main() 
 {
     Config conf = createConfigFromFile(someFile);
@@ -37,11 +37,11 @@ main()
 	}
 }
 
-```
+{% endhighlight %}
 
 But there should also be the option to use the specific capabilities of the sensor:
 
-```c++
+{% highlight c++ %}
 main() 
 {
     Config conf = createConfigFromFile(someFile);
@@ -60,7 +60,7 @@ main()
     }
 
 }
-```
+{% endhighlight %}
 
 ### Some Classes
 These are some classes that I probably will use to accompish this:
