@@ -40,6 +40,7 @@ main()
 ```
 
 But there should also be the option to use the specific capabilities of the sensor:
+
 ```c++
 main() 
 {
@@ -59,7 +60,6 @@ main()
     }
 
 }
-
 ```
 
 ### Some Classes
