@@ -64,6 +64,7 @@ main()
 
 ### Some Classes
 These are some classes that I probably will use to accompish this:
+
 * abstract Sensor: Mask for minimal interface.
     * each Sensor will have to implement this class
 * abstract Config: Has at least to include a Type field so the correct sensor can be initialised with it.
