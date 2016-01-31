@@ -4,7 +4,7 @@ email:       debuspaul+githubio@gmail.com
 author:      Paul Debus
 description: "About Stuff"
 baseurl:     ""
-url:         "pauldebus.github.io"
+url:         "pauldebus.de"
 date_format: "%d %-b, %Y"
 
 # Google services
@@ -45,7 +45,7 @@ paypal_url:
 flattr_button:
 
 # Post sharing icons
-show_sharing_icons: false
+show_sharing_icons: true
 # Change to 'true' to enable individual icons
 share_facebook: true
 share_twitter: false
