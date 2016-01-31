@@ -22,4 +22,4 @@ Genauso übernehme ich keine Verantwortung für Inhalte auf verlinkten Seiten. I
 
 > 99423 Weimar
 
-> Email: paulpaul (at) surf (punkt) co (punkt) nz
+> Email: kontakt(at)pauldebus(punkt)de
