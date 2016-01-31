@@ -2,6 +2,7 @@
 layout: page
 title: Über die Seite
 permalink: /about/
+tags: about
 ---
 
 Dies ist mein privater Blog über alles mögliche. Meine Interessen reichen von lauter Musik über alles mit Technik und Informatik bis hin zu Bildungspolitik. Aber darauf würde ich mich nur ungern beschränken.
