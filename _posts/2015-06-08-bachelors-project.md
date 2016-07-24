@@ -8,6 +8,7 @@ categories: raspberry_pi bachelor uni
 
 ## Microcontroller based sensor system for construction monitoring
 ### About my Bachelors Project
+
 For the last ten month or so I have been working with a sensor system to monitor inclinations and movements of structures. The system is based on [Raspberry Pis](https://www.raspberrypi.org/) that can be wirelessly connected to communicate.
 
 Most of my work was to implement the controlling code for a new sensor prototype manifactured by a partnering company from Berlin. There was code when I started but it had many flaws and I cant believe it produced reliable measurements at any point in time.    
